@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman921)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there, I'm Aman Tiwari -  👋
 
 ## I'm a Student !
@@ -34,6 +32,8 @@
 <br />
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman921)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 📺 Latest YouTube Videos
 
