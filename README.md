@@ -38,11 +38,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [300+ FREE Developer Resources (2021) | Software & Web Development](https://www.youtube.com/watch?v=WS4CjQx4IUA)
-- [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns)
-- [TypeScript Crash Course 2021 | The Basics From Scratch!](https://www.youtube.com/watch?v=wyO8RWl1ges)
-- [STACKr News 2021 (January Week 3) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=KcGYLhYDqRY)
-- [Awesome Micro-Interaction Input Character Limit Counter | HTML, CSS, JavaScript (2021)](https://www.youtube.com/watch?v=Byx1Gc3xTD8)
+Starting my YOUTUBE Channel soon.
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -69,14 +65,6 @@ NO POSTS.... YET RELEASING SOON.
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
 
 [twitter]: https://twitter.com/AmanVijayTiwar1
 [youtube]: https://www.youtube.com/channel/UCfk03QW2CHMuAWgC6EyN4mQ
