@@ -50,22 +50,7 @@ Starting my YOUTUBE Channel soon.
 <!-- BLOG-POST-LIST:START -->
 NO POSTS.... YET RELEASING SOON.
 <!-- BLOG-POST-LIST:END -->
-
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/codeSTACKr/free-developer-resources/issues/2) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#2](https://github.com/codeSTACKr/free-developer-resources/issues/2) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🎉 Merged PR [#1](https://github.com/codeSTACKr/free-developer-resources/pull/1) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#1](https://github.com/codeSTACKr/free-developer-resources/issues/1) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
-<!--END_SECTION:activity-->
-
-</details>
-
 [twitter]: https://twitter.com/AmanVijayTiwar1
 [youtube]: https://www.youtube.com/channel/UCfk03QW2CHMuAWgC6EyN4mQ
 [instagram]: https://www.instagram.com/amantiwari1859/
