@@ -77,25 +77,13 @@ NO POSTS.... YET RELEASING SOON.
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+
+[twitter]: https://twitter.com/AmanVijayTiwar1
+[youtube]: https://www.youtube.com/channel/UCfk03QW2CHMuAWgC6EyN4mQ
+[instagram]: https://www.instagram.com/amantiwari1859/
+[linkedin]: https://www.linkedin.com/in/aman-tiwari-a8a171184/
 
 
-### Hi there 👋, My name is Aman 
-#### Design and Development
-I'm Aman from India, and I do content on Design and Development.
-I really enjoy to learning new skills.
 
-Skills:  JS / HTML / CSS
-
-- 🔭 I’m currently working on my Website. 
-- 🌱 I’m currently learning MCA. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aman921)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AmanTiwari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/AmanTiwari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amantiwari1859/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AmanTiwari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/AmanTiwari)  
 
 
